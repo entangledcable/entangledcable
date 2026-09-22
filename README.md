@@ -14,5 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I love Linux and the open source community.
-Always busy learning new stuff and documenting.
+Always trying to learn new stuff. I love Linux and the open source community and am a tech enthusiast.
